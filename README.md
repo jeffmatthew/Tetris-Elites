@@ -24,4 +24,12 @@ When a row is completely filled with shapes, it will clear, and any blocks above
 6. **''P''** - Pause / Resume
 7. **''ENTER''** - Start
 
+**Logic**
+
+  The game logic is handled in the Tetris class, which includes methods for starting the game, updating the game state, and handling user input. The game consists of a game board where Tetris pieces (tiles) fall from the top, and the player's goal is to manipulate the pieces to create complete horizontal lines.
+  The code includes variables and methods for managing the game state, such as the current level, score, and the current and next types of Tetris pieces. It also handles user input for moving and rotating the pieces, pausing the game, and starting a new game. The game speed increases as the player progresses, and cleared lines contribute to the player's score.
+  The code uses various Java libraries, such as java.awt, javax.swing, and java.util, for graphical components, event handling, random number generation, and timing. Overall, it provides the foundation for running and managing the Tetris game.
+  
+![Screenshot 2023-06-12 134732](https://github.com/jeffmatthew/Tetris-Elites/assets/114067378/e0e7039c-2123-47f6-abfb-54f9b6efb344)
+
 **Have Fun and Enjoy!**
