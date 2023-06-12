@@ -1,3 +1,13 @@
+java.awt.BorderLayout: This module provides classes and layout managers for arranging components in a container using the BorderLayout.
+
+java.awt.event.KeyAdapter: This module provides a simple implementation of the KeyListener interface, which is used to handle keyboard events.
+
+java.awt.event.KeyEvent: This module provides classes and constants for handling keyboard events.
+
+java.util.Random: This module provides a random number generator, which is used to generate random Tetris pieces.
+
+javax.swing.JFrame: This module provides a window frame for the Tetris game. It is a top-level container that contains the game components.
+
 +-------------------+
 |     Tetris        |
 +-------------------+
