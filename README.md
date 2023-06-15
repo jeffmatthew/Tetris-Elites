@@ -11,7 +11,7 @@ Arrange the falling tetromino shapes at the bottom of the grid (playfield) to fo
 **🕹️ Gameplay 🕹️**
 
 Tetromino shapes, consisting of four squares, appear at the top of the playfield and start to descend towards the bottom.
-You can move the falling shape left or right using the arrow keys to position it correctly.
+You can move the falling shape left or right using the ASDQE keys to position it correctly.
 Use the rotation control to adjust the orientation of the shape to fit the available spaces.
 Once the shape reaches the bottom or lands on top of existing blocks, it will freeze in place, and a new shape will appear.
 When a row is completely filled with shapes, it will clear, and any blocks above it will shift down to occupy the vacated space.
