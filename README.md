@@ -16,13 +16,13 @@ When a row is completely filled with shapes, it will clear, and any blocks above
 
 **🎮 Controls: 🎮**
 
-1. **''A''** - Move Left
-2. **''D''** - Move Right
-3. **''Q''** - Rotate Anticlockwise
-4. **''E''** - Rotate Clockwise
-5. **''S''** - Drop
-6. **''P''** - Pause / Resume
-7. **''ENTER''** - Start
+1. **🄰** - Move Left
+2. **🄳** - Move Right
+3. **🅀** - Rotate Anticlockwise
+4. **🄴** - Rotate Clockwise
+5. **🅂** - Drop
+6. **🄿** - Pause / Resume
+7. **🄴🄽🅃🄴🅁** - Start
 
 **🧩 Logic 🧩**
 
